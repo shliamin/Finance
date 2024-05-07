@@ -6,8 +6,8 @@ This Jupyter Notebook is tailored for financial data analysis. It includes Pytho
 ## Getting Started
 To use this notebook:
 ```bash
-git clone https://github.com/shliamin/finance
-cd finance
+git clone https://github.com/shliamin/Finance
+cd Finance
 # Ensure you have Jupyter installed
 jupyter notebook
 ```
